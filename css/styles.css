@@ -1,0 +1,212 @@
+body{
+  font-family: "Montserrat";
+}
+
+h1{
+  font-family: "Montserrat-Bold";
+}
+
+h2{
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3{
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+h4{
+  font-family: "Montserrat-Bold";
+}
+
+h5{
+  font-family: "Montserrat-Bold";
+}
+
+h6{
+  font-family: "Montserrat-Bold";
+}
+
+@media (max-width: 1028px) {
+  #title{
+    text-align: center;
+  }
+  #ciui{
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+.container-fluid{
+  padding: 3% 15% 7%;
+  font-family: "Montserrat-Black";
+}
+
+.feature-box{
+  font-family: "Montserrat-Black";
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 5%;
+}
+
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+.nav-item{
+  padding-left: 18px;
+  padding-right: 18px;
+  font-family: "Montserrat-Black";
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size:2.5rem;
+  font-weight: bold;
+}
+
+.nav-link{
+  font-family: "Montserrat-Light";
+  font-size: 1.3rem;
+}
+
+.dwn-btn{
+  margin: 5% 3% 5% 0;
+  font-family: "Montserrat-Black";
+}
+
+.pebbles-text{
+  font-size: 1rem;
+  font-weight: bold;
+  color: #fff;
+  font-family: "Montserrat-Black";
+}
+
+.testimonial-img{
+  width: 14%;
+  border-radius: 100%;
+  margin-top: 30px;
+  margin bottom: 10px;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.pebbles{
+  margin-bottom: 150px;
+  font-family: "Montserrat-Black";
+}
+
+.card-deck{
+  margin: 7px 15px;
+  font-family: "Montserrat-Black";
+}
+
+.priceing-column{
+  padding: 3% 2%;
+}
+
+.card-body{
+    color:black;
+}
+
+#ciui{
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right:30%;
+}
+
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  color: black;
+  background-color: #ef8172;
+  font-family: "Montserrat-Black";
+}
+
+#sniff{
+  font-weight: bolder;
+  color: #fff;
+  font-family: "Montserrat-Black";
+}
+
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+  font-family: "Montserrat-Black";
+}
+
+#meeting{
+  font-family: "Montserrat";
+  font-size: 5rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+#features{
+  padding:7% 15%;
+  font-family: "Montserrat-Black";
+  background-color: #fff;
+  position: relative;
+}
+
+#caracteristici{
+  color: #8f8f8f;
+  font-family: "Montserrat-Black";
+}
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+  font-family: "Montserrat-Black";
+}
+
+#paddin-gold{
+  margin: 100px;
+}
+
+#pricing{
+  padding:100px;
+  font-family: "Montserrat";
+  text-align: center;
+  font-weight: 100px;
+}
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  font-family: "Montserrat";
+  color: #fff;
+  padding-top: 5%;
+  padding-bottom: 3%;
+}
+
+#footer{
+  background-color: #fff;
+  text-align: center;
+  padding: 6% 0% 6% 0%;
+  font-family: "Montserrat-black";
+}
+
+#contact{
+  margin-left: 1%;
+  margin-right: 1%;
+  font-size: 100%;
+}
